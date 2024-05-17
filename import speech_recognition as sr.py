@@ -83,17 +83,3 @@ while True:
         else:
             speak("Üzgünüm, komut anlaşılamadı.")
             break
-
-
-
-"""def camera():
-    if "kamerayı aç":
-     speak("Kamera açılıyor...")
-     os.system("start camera") #Kamerayı açmak için gereken kod
-
-    elif "kamerayı kapat":
-        speak("Kamera kapatılıyor...") #Kamerayı kapatmak için gereken kod
-        os.system("stop camera")
-        #bunda hata vermiyor ama kodu çalıştırmıyor 
-        #derlemede problem yok ama kod eksik veya çalışmıyor
-    """
